@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C34873D52624004300FF917A /* Expo1900Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A8786261C5633000AF183 /* Expo1900Tests.swift */; };
 		C376AFA72620881900009946 /* KoreanEntryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C376AFA52620881900009946 /* KoreanEntryTableViewCell.swift */; };
 		C376AFA82620881900009946 /* KoreanEntryTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C376AFA62620881900009946 /* KoreanEntryTableViewCell.xib */; };
 		C376AFAC2621766400009946 /* KoreanItemsEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C376AFAB2621766400009946 /* KoreanItemsEntryViewController.swift */; };
 		C39A877A261C54D2000AF183 /* Exposition.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A8779261C54D2000AF183 /* Exposition.swift */; };
 		C39A877E261C5548000AF183 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A877D261C5548000AF183 /* Item.swift */; };
-		C39A8787261C5633000AF183 /* Expo1900Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A8786261C5633000AF183 /* Expo1900Tests.swift */; };
 		C39A8791261C5C47000AF183 /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39A8790261C5C47000AF183 /* StringExtension.swift */; };
 		C39F976A26203ED000AF2E75 /* ExpoDescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39F976926203ED000AF2E75 /* ExpoDescriptionViewController.swift */; };
 		C3C2DAF22623242F0025F24A /* ItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DAF12623242F0025F24A /* ItemDetailViewController.swift */; };
@@ -261,7 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C39A8787261C5633000AF183 /* Expo1900Tests.swift in Sources */,
+				C34873D52624004300FF917A /* Expo1900Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
